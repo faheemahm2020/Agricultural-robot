@@ -6,7 +6,7 @@
 
 Watch the agricultural robot in action!
 
-▶️ **[Click here to watch the project demo](https://drive.google.com/file/d/19N7_srpPK_Fq8kNpn35ZQk15F-6zbTag/view?usp=sharing))**
+▶️ **[Click here to watch the project demo](https://drive.google.com/file/d/19N7_srpPK_Fq8kNpn35ZQk15F-6zbTag/view?usp=sharing)**
 
 ---
 
