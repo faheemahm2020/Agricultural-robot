@@ -1,4 +1,4 @@
-#  Agricultural Robot Using Raspberry Pi
+#  Agricultural Robot Using Raspberry Pi 4 
 
 **An automated agricultural robot for timed movement and irrigation using Raspberry Pi 4 and Python.**
 
